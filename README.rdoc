@@ -1,0 +1,1 @@
+This application uses omni-auth to authenticate users on the app and updates their profile using facebook graph API.
